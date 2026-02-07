@@ -197,12 +197,3 @@ body {
 strong.metric {
   font-weight: bold;
 }
-
-/* Language Toggle */
-#primary-version {
-  display: block;
-}
-
-#secundary-version {
-  display: none;
-}

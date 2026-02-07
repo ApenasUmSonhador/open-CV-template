@@ -16,7 +16,6 @@ This project is intended to be **forked, customized, and reused** by anyone who 
 
 This repository provides a **single-page interactive resume template** that includes:
 
-- 🌐 Language toggle (English / Custom)
 - 🖨️ Print-ready layout
 - ✍️ Professional typography
 - 📱 Responsive design
@@ -94,7 +93,6 @@ Your CV will be available at:
 
 ## ✨ Features
 
-✔️ English / Custom language toggle  
 ✔️ Print-friendly layout  
 ✔️ Clean and professional design  
 ✔️ Responsive structure  
@@ -131,6 +129,7 @@ You are encouraged to customize and extend this template:
 - 📄 Export to PDF automatically  
 - ✨ Add animations  
 - 🎨 Create themed versions  
+- 🔁 Implement language toggle
 
 This project is meant to be a starting point.
 
@@ -157,7 +156,7 @@ Feel free to open an Issue or submit a Pull Request.
 
 This project is open-source and free to use for personal and professional purposes.
 
-Licensed under the **MIT License**.
+Licensed under the [**MIT License**](LICENSE).
 
 Keeping credits is appreciated.
 
